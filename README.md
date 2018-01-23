@@ -1,6 +1,6 @@
 # Thermostat
 
-[Task](#task) | [Approach](#approach) | [Execution](#execution) | [Struggles](#struggles) | [Run the App](#demo) | [Technologies](#technologies)
+[Task](#task) | [Approach](#approach) | [Struggles](#struggles) | [Run the App](#demo) | [Technologies](#technologies)
 
 
 ## <a name="task">Task</a>
@@ -22,12 +22,11 @@ This is the specification that was provided to us:
 
 We chose to use these bullet points as our user stories for the development of the app.
 
+![](images/thermostat.png)
+
 ## <a name="approach">Approach</a>
 
 Prior to this week I had never used JavaScript before. I therefore used this week be become familiar with OO design while generating the business logic for the thermostat. This was achieved through test driven developent using Jasmine.
-
-## <a name="execution">Execution</a>
-
 
 ## <a name="struggles">Struggles</a>
 
