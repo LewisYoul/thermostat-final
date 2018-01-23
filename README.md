@@ -43,7 +43,7 @@ In order to run locally:
 
 * Clone this repository
 * Change into the repo directory
-* Run `open SpecRunner.html`(Mac) or `xdg-open SpecRunner.html`(Linux) to see all passing tests
+* Run `open SpecRunner.html`(Mac) or `xdg-open SpecRunner.html`(Linux) to see all tests pass
 * Run `open index.html`(Mac) or `xdg-open index.html`(Linux) to view the thermostat
 
 # <a name="technologies">Technologies</a>
