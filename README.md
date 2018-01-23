@@ -31,6 +31,9 @@ Prior to this week I had never used JavaScript before. I therefore used this wee
 
 ## <a name="struggles">Struggles</a>
 
+* Obtaining icon information from the returned JSON and interpolating it into the subsequent DOM rendering.
+* Heroku did not allow http calls to be made after deployment - solved this by making all calls use https.
+* If I had more time to work on this project I would like to have made it so that thermostat temperatures were saved in sessions or a database of sorts.
 
 ## <a name="demo">Run the App</a>
 
