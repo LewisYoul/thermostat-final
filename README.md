@@ -47,3 +47,5 @@ In order to run locally:
 * Run `open index.html`(Mac) or `xdg-open index.html`(Linux) to view the thermostat
 
 # <a name="technologies">Technologies</a>
+
+Business logic development was entirely test driven using JavaScript standard syntax and the Jasmine testing framework. JQuery was used to make weather API requests and handle all user interaction.
