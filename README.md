@@ -22,7 +22,6 @@ This is the specification that was provided to us:
 
 We chose to use these bullet points as our user stories for the development of the app.
 
-![](images/thermostat.png)
 
 ## <a name="approach">Approach</a>
 
@@ -37,6 +36,8 @@ Prior to this week I had never used JavaScript before. I therefore used this wee
 ## <a name="demo">Run the App</a>
 
 Thermostat is live [here](https://thermostat-final.herokuapp.com/index.html)
+
+![](images/thermostat.png)
 
 In order to run locally:
 
