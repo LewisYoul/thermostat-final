@@ -37,5 +37,13 @@ Prior to this week I had never used JavaScript before. I therefore used this wee
 
 ## <a name="demo">Run the App</a>
 
+Thermostat is live [here](https://thermostat-final.herokuapp.com/index.html)
+
+In order to run locally:
+
+* Clone this repository
+* Change into the repo directory
+* Run `open SpecRunner.html`(Mac) or `xdg-open SpecRunner.html`(Linux) to see all passing tests
+* Run `open index.html`(Mac) or `xdg-open index.html`(Linux) to view the thermostat
 
 # <a name="technologies">Technologies</a>
