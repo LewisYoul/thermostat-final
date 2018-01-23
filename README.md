@@ -20,8 +20,11 @@ This is the specification that was provided to us:
 * You can ask about the thermostat's current energy usage: < 18 is low-usage, < 25 is medium-usage, anything else is high-usage.
 * (In the challenges where we add an interface, low-usage will be indicated with green, medium-usage indicated with black, high-usage indicated with red.)
 
+We chose to use these bullet points as our user stories for the development of the app.
+
 ## <a name="approach">Approach</a>
 
+Prior to this week I had never used JavaScript before. I therefore used this week be become familiar with OO design while generating the business logic for the thermostat. This was achieved through test driven developent using Jasmine.
 
 ## <a name="execution">Execution</a>
 
